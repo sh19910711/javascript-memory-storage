@@ -1,0 +1,26 @@
+{
+  "name": "javascript-memory-storage",
+  "version": "0.0.0",
+  "description": "DOM Storage on Memory",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "underscore": "~1.5.2",
+    "grunt-contrib-coffee": "~0.8.0",
+    "grunt": "~0.4.2",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-mocha-test": "~0.8.1",
+    "coffee-script": "~1.6.3",
+    "requirejs": "~2.1.9",
+    "should": "~2.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/home/dev/Dropbox/workspace/git-repos/javascript-memory-storage/"
+  },
+  "author": "",
+  "license": "MIT"
+}
