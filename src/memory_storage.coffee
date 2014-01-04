@@ -1,3 +1,7 @@
+#
+# MemoryStorage
+# Copyright (c) 2014 Hiroyuki Sano
+#
 define(
   [
   ]
